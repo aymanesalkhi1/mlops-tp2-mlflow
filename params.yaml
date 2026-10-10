@@ -1,0 +1,7 @@
+prepare:
+  random_state: 42
+  test_size: 0.2
+train:
+  max_depth: 6
+  n_estimators: 100
+  random_state: 42
